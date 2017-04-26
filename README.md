@@ -1,2 +1,2 @@
-# analytics_slack
-Get google analytics to slack.
+# Analytics to slack
+Get google analytics to slack,
